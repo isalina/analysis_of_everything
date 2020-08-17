@@ -6,7 +6,7 @@
 
 Стеки: pandas, scipy, numpy, math, statsmodels, seaborn, matplotlib
 
-Cтатус проекта: закончен.
+Cтатус проекта: завершен.
 
 ### План выполнения проекта  
 
